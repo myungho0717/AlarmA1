@@ -1,0 +1,38 @@
+<RelativeLayout  
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+      android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:id="@+id/background"
+    >
+    <ImageButton
+        android:id="@+id/button1"
+         android:layout_width="200px"
+      android:layout_height="200px"
+       android:scaleType="fitXY"
+        android:src="@drawable/selectbutton"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/background"/>
+    
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="303dp" 
+        android:layout_below="@id/button1"
+        android:paddingLeft="10px"
+        android:paddingRight="10px"
+        >
+        
+    </ListView>
+    
+    <ImageView 
+        android:id="@+id/bottom"
+        android:src="@drawable/alarmon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" 
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+   </RelativeLayout>

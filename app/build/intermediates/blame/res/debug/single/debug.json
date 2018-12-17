@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cancelb.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\cancelb.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_showcatchme.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\showcatchme.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rainy.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offshowgame.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offshowgame.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backgroundoff.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\backgroundoff.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectword.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectword.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_message.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cold.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\cold.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wakebackground.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\wakebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectoffbutton.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectoffbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_finish.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\finish.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_smile.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectsms.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectsms.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushonbutton.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushonbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_change.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\change.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_alarmon.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\alarmon.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wakebottom.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\wakebottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convertbutton.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\convertbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_alarminfochange.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\alarminfochange.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_agari.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\agari.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_four.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_six.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushmemo.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushmemo.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convertbackground.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\convertbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_seven.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushagari.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushagari.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_catchme.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\catchme.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectrecycle.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectrecycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_one.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offshowlip.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offshowlip.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_snow.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wakebutton.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\wakebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloud.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushcatchme.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushcatchme.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offmemo.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offmemo.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectspeaker.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectspeaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_alarm.jpg.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\alarm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_weather.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_path.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\path.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lightning.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_decibelimg.jpg.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\decibelimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offshowspeaker.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offshowspeaker.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eight.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offmessage.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offmessage.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushsun.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushsun.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_game.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\game.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_two.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushrecycle.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushrecycle.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\raw_song.wav.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\raw\\song.wav"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offbutton.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_showgame.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\showgame.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectgame.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectgame.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_showagari.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\showagari.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectmemo.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectmemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_memo.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\memo.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_block.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\block.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectbutton.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_decibel.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\decibel.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_alarm_contents.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\alarm_contents.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushgame.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushgame.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sendmsg.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\sendmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_catched.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\catched.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nine.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloudsmall.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\cloudsmall.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_memo.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\memo.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushbutton.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushoffbutton.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushoffbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sunny.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sun.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_alarmsound.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\alarmsound.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_offshowcatchme.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\offshowcatchme.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushmessage.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushmessage.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_five.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushspeaker.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\pushspeaker.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_alarm_list.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\alarm_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_time.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zero.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_speaker.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectsun.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectsun.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_three.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_maze.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\maze.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selectcatchme.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\selectcatchme.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_convertbottom.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\convertbottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_onbutton.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\onbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_recycle.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\recycle.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_showspeaker.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\showspeaker.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_alarmoff.png.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\drawable-mdpi\\alarmoff.png"
+    },
+    {
+        "merged": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\build\\intermediates\\res\\merged\\debug\\layout_word.xml.flat",
+        "source": "C:\\Users\\myungho0717\\Desktop\\AlarmA1\\app\\src\\main\\res\\layout\\word.xml"
+    }
+]
